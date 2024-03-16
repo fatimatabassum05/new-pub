@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+
+echo "this is another new file"
+echo "this is added by new_branch"
+>>>>>>> 90391a3 (added by new_branch developer)
