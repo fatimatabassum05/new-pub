@@ -1,4 +1,7 @@
 #!/bin/bash
 
 echo "this is another new file"
+<<<<<<< HEAD
 echo "this is done by dev2"
+=======
+>>>>>>> 209a396 (another file for b2)
