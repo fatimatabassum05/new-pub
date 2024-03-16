@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-=======
 #!/bin/bash
 
 echo "this is another new file"
-<<<<<<< HEAD
 echo "this is added by new_branch"
->>>>>>> 90391a3 (added by new_branch developer)
-=======
 echo "this is done by dev2"
->>>>>>> ef02b93 (done by branch1 developer)
