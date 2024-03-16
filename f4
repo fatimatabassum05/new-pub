@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "this is another new file"
+echo "this is done by dev2"
